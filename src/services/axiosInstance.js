@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const a = axios.create({
-    baseURL: "https://595eefa259a34869.mokky.dev"
+    baseURL: "https://030bd58b472b9b55.mokky.dev"
 })
